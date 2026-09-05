@@ -1,1 +1,11 @@
-theme: jekyll-theme-cayman
+title: Sibi Lawrence
+description: Azure Cloud, Infrastructure Engineering, Automation and SRE
+
+remote_theme: "mmistakes/minimal-mistakes"
+
+plugins:
+  - jekyll-include-cache
+
+author:
+  name: "Sibi Lawrence"
+  bio: "Technology Specialist in Azure Cloud, Automation and SRE"
