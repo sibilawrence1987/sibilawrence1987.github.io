@@ -3,7 +3,7 @@ description: "Azure Cloud, Infrastructure Engineering, Automation and SRE"
 
 remote_theme: "mmistakes/minimal-mistakes"
 
-minimal_mistakes_skin: "aqua"
+minimal_mistakes_skin: "air"
 
 plugins:
   - jekyll-include-cache
