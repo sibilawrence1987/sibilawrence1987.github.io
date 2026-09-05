@@ -1,7 +1,6 @@
 ---
 layout: home
 author_profile: true
-title: "Welcome"
 ---
 
 Welcome to my technical blog.
