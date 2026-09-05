@@ -1,6 +1,6 @@
 Hi, I am Sibi.
 
-I'm a Cloud Operations professional working primarly on technologies:
+I'm a Cloud-Ops professional working primarly on technologies:
 
   - Microsoft Azure
   - Azure Automation
