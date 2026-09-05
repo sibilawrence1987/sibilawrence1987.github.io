@@ -254,10 +254,3 @@ This approaches DNS as a shared platform service rather than an application-spec
 In a multi-subscription Hub-Spoke environment, DNS should be treated as a foundational infrastructure service rather than an individual application responsibility. By centralizing Azure Private DNS Zones in the Hub, linking Spoke VNets through Virtual Network Links, and leveraging Azure DNS Private Resolver for hybrid name resolution, organizations can build a scalable, secure, and operationally efficient architecture. A well-designed DNS strategy not only simplifies management and troubleshooting, but also ensures that Private Endpoints consistently deliver the secure private connectivity they were intended to provide.
 
 
-
-
-
-Author: Sibi Lawrence
-Topics: Azure Networking, Private Endpoints, Azure DNS, Hub-Spoke Architecture, Hybrid Connectivity, Cloud Architecture, Azure Infrastructure
-
-
