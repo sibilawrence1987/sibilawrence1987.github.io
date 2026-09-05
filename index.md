@@ -1,20 +1,17 @@
-Hi, I am Sibi.
+---
+layout: home
+author_profile: true
+title: "Welcome"
+---
 
-I'm a Cloud-Ops professional working primarly on technologies:
+Welcome to my technical blog.
 
-  - Microsoft Azure
-  - Azure Automation
-  - Azure Devops
-  - Terraform
-  - AKS
-  - Azure Functions
-  - Azure Cost Management
-  - Azure Monitoring
-  - Powershell
-  - Cloud Operations and SRE practices
+I share practical experiences from:
 
-This blog is where I share practical Azure troubleshooting, automation and Cloud Operations solutions.
-
-## Latest Articles
-
-  - Coming soon...
+- Azure Infrastructure
+- Cloud Operations
+- SRE
+- Azure Networking
+- Automation
+- Cost Optimization
+- Architecture
