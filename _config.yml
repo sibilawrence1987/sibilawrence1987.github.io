@@ -3,31 +3,9 @@ description: "Azure Cloud, Infrastructure Engineering, Automation and SRE"
 
 remote_theme: "mmistakes/minimal-mistakes"
 
+minimal_mistakes_skin: "air"
+
 plugins:
   - jekyll-include-cache
 
-
 search: true
-
-breadcrumbs: true
-
-words_per_minute: 200
-
-repository: "sibilawrence1987/sibilawrence1987.github.io"
-
-defaults:
-  - scope:
-      path: ""
-      type: posts
-    values:
-      layout: single
-      author_profile: true
-      read_time: true
-      comments: false
-      share: true
-      related: true
-
-minimal_mistakes_skin: "contrast"
-
-paginate: 10
-paginate_path: /page:num/
