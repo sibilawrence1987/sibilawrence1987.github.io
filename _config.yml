@@ -27,7 +27,7 @@ defaults:
       share: true
       related: true
 
-minimal_mistakes_skin: "mint"
+minimal_mistakes_skin: "contrast"
 
 paginate: 10
 paginate_path: /page:num/
