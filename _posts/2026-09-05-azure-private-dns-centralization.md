@@ -1,5 +1,5 @@
 ---
-title: "Azure Private DNS Centralization and DNS Forwarding in a Hub-Spoke Architecture"
+title: "Azure Private DNS Architecture in a Hub-Spoke Network Architecture"
 date: 2026-09-05
 categories:
   - Azure
@@ -198,7 +198,7 @@ The resolution path becomes:
                                                   Private Endpoint Record
                                                         |
                                                         v
-                                                  10.10.20.5**
+                                                  10.10.10.1**
 
 The client receives the private IP address and traffic remains entirely on private connectivity.
 
