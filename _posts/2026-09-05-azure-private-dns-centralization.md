@@ -160,13 +160,13 @@ Sends DNS queries from Azure to external DNS servers.
 
 For example: 
 
-                                                    **Azure Workload
+                                                    Azure Workload
                                                          |
                                                          v
                                                     Outbound Endpoint
                                                          |
                                                          v
-                                                    On-Prem DNS**
+                                                    On-Prem DNS
 
 This enables bidirectional name resolution across hybrid environments.
 
@@ -180,7 +180,7 @@ can be forwarded to Azure.
 
 The resolution path becomes:
 
-                                                  **On-Prem Client
+                                                  On-Prem Client
                                                         |
                                                         v
                                                   On-Prem DNS Server
@@ -198,7 +198,7 @@ The resolution path becomes:
                                                   Private Endpoint Record
                                                         |
                                                         v
-                                                  10.10.10.1**
+                                                  10.10.10.1
 
 The client receives the private IP address and traffic remains entirely on private connectivity.
 
