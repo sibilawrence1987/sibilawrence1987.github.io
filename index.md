@@ -7,10 +7,10 @@ Welcome to my technical blog, where I share practical insights, real-world exper
 
 Topics covered include:
 
-Azure Infrastructure & Cloud Architecture
-Azure Networking & Hybrid Connectivity
-Cloud Operations & Platform Engineering
-Site Reliability Engineering (SRE)
-Infrastructure Automation & DevOps
-FinOps & Cost Optimization
-Real-World Troubleshooting & Lessons Learned
+  -  Azure Infrastructure & Cloud Architecture
+  -  Azure Networking & Hybrid Connectivity
+  -  Cloud Operations & Platform Engineering
+  -  Site Reliability Engineering (SRE)
+  -  Infrastructure Automation & DevOps
+  -  FinOps & Cost Optimization
+  -  Real-World Troubleshooting & Lessons Learned
