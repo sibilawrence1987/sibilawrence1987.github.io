@@ -1,5 +1,5 @@
 ---
-title: "Azure Reservations and Break-Even Analysis: Beyond the Discount Percentage"
+title: "Azure Reservations, Savings plan and Break-Even Analysis: Beyond the Discount Percentage"
 date: 2026-09-06
 categories:
   - Azure
@@ -12,7 +12,7 @@ tags:
   - Cloud Economics
 author: "Sibi Lawrence"
 ---
-**Azure Reservations and Break-Even Analysis: Beyond the Discount Percentage**
+**Azure Reservations , Savings plan and Break-Even Analysis: Beyond the Discount Percentage**
 
 One of the most common cost optimization recommendations in Azure is purchasing Reserved Instances (Reservations). Microsoft's pricing calculators and Azure Advisor often highlight significant savings compared to Pay-As-You-Go (PAYG) pricing, making reservations appear to be an obvious cost optimization strategy.
 
