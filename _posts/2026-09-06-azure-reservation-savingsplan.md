@@ -35,12 +35,9 @@ In exchange, Azure provides discounted pricing compared to PAYG rates.
 
 For example:
 
-Pricing Model	Monthly CostPay-As-You-Go	$100
-Reserved Instance	$48
+Pricing Model	- Monthly Cost of Pay-As-You-Go	is $100. For Reserved Instance it is $48
 
-In this scenario:
-
-Discount = 52%
+In this scenario: Discount is 52%
 
 At first glance, the decision seems straightforward.
 
