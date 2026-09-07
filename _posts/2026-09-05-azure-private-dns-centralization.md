@@ -14,7 +14,7 @@ tags:
 
 author: "Sibi Lawrence"
 ---
-**Designing Azure Private DNS Architecture As A Centralized Model In A Hub-Spoke Network Architecture**
+**Azure Private DNS Architecture As A Centralized Model**
 
 When organizations adopt Azure Private Endpoints for services such as Azure Storage Accounts, Azure SQL Databases, Cosmos DB, Key Vaults, and other PaaS services, networking becomes a critical aspect of the overall solution design.
 
