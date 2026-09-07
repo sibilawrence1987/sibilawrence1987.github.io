@@ -1,5 +1,5 @@
 ---
-title: "Fixing Azure Cost Management API 429 Throttling with the ClientType Header"
+title: "Azure Cost Management API 429 Errors: Why They Happen And How To Design Around Throttling"
 date: 2026-09-06
 categories:
   - Azure
