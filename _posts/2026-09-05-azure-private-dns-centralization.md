@@ -14,6 +14,8 @@ tags:
 
 author: "Sibi Lawrence"
 ---
+**Designing Azure Private DNS Architecture As A Centralized Model In A Hub-Spoke Network Architecture**
+
 When organizations adopt Azure Private Endpoints for services such as Azure Storage Accounts, Azure SQL Databases, Cosmos DB, Key Vaults, and other PaaS services, networking becomes a critical aspect of the overall solution design.
 
 A well-architected Azure landing zone typically consists of multiple subscriptions connected through a Hub-Spoke network topology. Each subscription may contain one or more Virtual Networks (VNets) hosting application workloads, while the central Hub subscription provides shared infrastructure services such as connectivity, security, DNS, and monitoring.
