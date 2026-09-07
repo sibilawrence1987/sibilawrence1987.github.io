@@ -1,5 +1,5 @@
 ---
-title: "Azure Reservations, Savings Plan And Break-Even Analysis: Beyond The Discount Percentage - A practical Strategy For Organisations"
+title: "Azure Reservations, Savings Plan And Break-Even Analysis: Beyond The Discount Percentage - A Practical Strategy For Organisations"
 date: 2026-09-06
 categories:
   - Azure
