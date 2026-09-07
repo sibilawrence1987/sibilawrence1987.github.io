@@ -1,0 +1,10 @@
+---
+---
+
+@import "minimal-mistakes";
+
+/* Hide the default copyright footer */
+
+.page__footer-copyright {
+    display: none !important;
+}
