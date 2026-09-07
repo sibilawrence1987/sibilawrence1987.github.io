@@ -135,12 +135,7 @@ Reservations perform best when applied to stable and predictable workloads.
 
 Typical examples include:
 
-Production Application Servers
-Production AKS Node Pools
-Domain Controllers
-Database Servers
-Monitoring Platforms
-Shared Infrastructure Services
+Production Application Servers, Production AKS Node Pools, Domain Controllers, Database Servers, Monitoring Platforms, and Shared Infrastructure Services.
 
 These workloads typically achieve utilization levels well above the break-even threshold and rarely experience sudden decommissioning.
 
