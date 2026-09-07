@@ -3,8 +3,10 @@
 
 @import "minimal-mistakes";
 
-/* Hide the default copyright footer */
-
 .page__footer-copyright {
+    display: none !important;
+}
+
+.page__footer-follow {
     display: none !important;
 }
