@@ -1,5 +1,5 @@
 ---
-title: "Azure Private DNS Architecture in a Hub-Spoke Network Architecture"
+title: "Designing Azure Private DNS Architecture as a centralized model in a Hub-Spoke Network Architecture"
 date: 2026-09-05
 categories:
   - Azure
