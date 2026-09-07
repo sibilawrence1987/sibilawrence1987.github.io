@@ -101,11 +101,7 @@ Below the threshold:
 
 **Calculating Break-Even for 24×5 Workloads**
 
-One of the most common questions is whether reservations are worthwhile for workloads that run:
-
-Monday - Friday
-24 Hours Per Day
-Powered Off During Weekends
+One of the most common questions is whether reservations are worthwhile for workloads that run: Monday to Friday 24 hours per day and powered off during weekends
 
 Let's calculate.
 
