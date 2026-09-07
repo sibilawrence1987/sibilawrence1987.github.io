@@ -145,19 +145,9 @@ For these environments, reservations frequently provide consistent long-term sav
 
 Development and testing environments often behave very differently.
 
-Examples include:
+Examples include: Feature Testing Environments, Sandboxes, Temporary Labs, Project-Based Development Platforms
 
-Feature Testing Environments
-Sandboxes
-Temporary Labs
-Project-Based Development Platforms
-
-These workloads may:
-
-Be powered off regularly
-Be resized frequently
-Be deleted unexpectedly
-Exist only for short periods
+These workloads may: Be powered off regularly, be resized frequently, be deleted unexpectedly, and exist only for short periods
 
 While some non-production environments may justify reservations, highly dynamic workloads require careful analysis before making long-term commitments.
 
@@ -202,13 +192,7 @@ In most environments, the financially optimal approach is:
 
 **Step 1: Reserve Stable Capacity**
 
-Examples:
-
-Production Servers
-Long-Lived Non-Production Environments
-Core Infrastructure
-Databases
-AKS Clusters
+Examples: Production Servers, Long-Lived Non-Production Environments, Core Infrastructure, Databases and AKS Clusters
 
 These workloads generally have predictable consumption and maximize reservation utilization.
 
@@ -218,22 +202,13 @@ Because Reservations provide the highest discounts, stable workloads should typi
 
 After reservations cover stable capacity, evaluate remaining dynamic consumption.
 
-Savings Plans work well for:
-
-Frequently Resized Workloads
-Dynamic Development Environments
-Temporary Projects
-Variable Compute Consumption
+Savings Plans work well for: Frequently Resized Workloads, Dynamic Development Environments, Temporary Projects, and Variable Compute Consumption
 
 Savings Plans offer reduced discounts compared to Reservations but provide significantly greater flexibility.
 
 **Step 3: Leave Highly Unpredictable Resources on PAYG**
 
-Examples:
-
-Temporary Labs
-Short-Term Testing Environments
-Experimental Platforms
+Examples: Temporary labs, short-term testing environments, and experimental platforms
 
 Maintaining PAYG flexibility may be the most cost-effective option for these workloads.
 
@@ -245,19 +220,9 @@ A more practical and lower-risk approach is to introduce reservations gradually 
 
 **Phase 1: Reserve Stable Production Workloads**
 
-Production environments are typically the safest candidates for reservations because they:
+Production environments are typically the safest candidates for reservations because they: Operate continuously, have predictable resource consumption, and are less likely to be decommissioned unexpectedly
 
-Operate continuously
-Have predictable resource consumption
-Are less likely to be decommissioned unexpectedly
-
-Examples include:
-
-Production Application Servers
-Database Servers
-AKS Production Node Pools
-Shared Infrastructure Services
-Domain Controllers
+Examples include: Production application servers, database servers, AKS production node pools, shared infrastructure services, and domain controllers.
 
 These workloads generally deliver the highest reservation utilization and the most predictable savings.
 
@@ -271,10 +236,7 @@ After initial reservations are purchased, utilization should be reviewed regular
 
 Key questions include:
 
-Are reservations fully utilized?
-Is reserved capacity remaining unused?
-Are workloads changing size?
-Are additional reservations justified?
+Are reservations fully utilized? is reserved capacity remaining unused? are workloads changing size? and are additional reservations justified?
 
 Reservation utilization is often a better success metric than the total number of reservations purchased.
 
@@ -298,7 +260,7 @@ Savings Plans operate differently from Reservations.
 
 Instead of reserving a specific VM family, Savings Plans commit to a fixed spend amount per hour.
 
-Example: US $10/hour commitment
+Example: US $5/hour commitment
 
 Azure automatically applies Savings Plan benefits to eligible compute consumption up to that hourly commitment.
 
@@ -313,9 +275,9 @@ Azure automatically applies pricing benefits in the most advantageous order.
 In general: 
 
                     Reservations
-                    ↓
+                          ↓
                     Savings Plans
-                    ↓
+                          ↓
                     Pay-As-You-Go
 
 This means workloads matching existing reservations consume reservation benefits first.
